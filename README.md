@@ -1,7 +1,7 @@
 # SDVX Emulator
 
 A basic Sound Voltex emulator with support for [K-Shoot MANIA](http://kshoot.client.jp)
-maps, written using [LÖVE](http://love2d.org).  
+maps, written in Lua using [LÖVE](http://love2d.org).  
 Name subject to change.
 
 The goal of the `prototype` branch is to reverse-engineer and
